@@ -1,0 +1,5 @@
+{
+  "name": "Vòng Quay May Mắn AI (Lucky Wheel)",
+  "description": "Ứng dụng vòng quay may mắn cho phép nhập tên thủ công, tải từ file Excel/CSV và tạo danh sách tự động bằng Gemini AI.",
+  "requestFramePermissions": []
+}
